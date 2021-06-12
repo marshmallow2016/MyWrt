@@ -10,7 +10,8 @@ Build OpenWrt using GitHub Actions
 
 # x86_64 配置如下：
 
-2021年6月12日
+### 2021年6月12日
+
 相比上一次编译去掉了UU加速器，迅雷快鸟，增加了天意云加速
 
 ![x86-001](https://user-images.githubusercontent.com/33984381/121774700-38102280-cbb6-11eb-90de-142156de1f7d.jpg)
