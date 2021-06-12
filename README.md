@@ -11,5 +11,6 @@ Build OpenWrt using GitHub Actions
 x86_64 配置如下：
 =============================================
 2021年6月12日
+
 ![x86-001](https://user-images.githubusercontent.com/33984381/121774700-38102280-cbb6-11eb-90de-142156de1f7d.jpg)
-![x86-002](https://user-images.githubusercontent.com/33984381/121774706-3b0b1300-cbb6-11eb-907f-0673475dc3d8.jpg)
+![x86-002](https://user-images.githubusercontent.com/33984381/121774787-82919f00-cbb6-11eb-9dd9-bbde17d55f25.jpg)
